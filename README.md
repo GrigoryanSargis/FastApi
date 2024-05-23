@@ -1,6 +1,6 @@
 # FastApi
 
-#CoinSum Predictor is a machine learning project designed to accurately predict the total value of Armenian coins in an image
+# CoinSum Predictor is a machine learning project designed to accurately predict the total value of Armenian coins in an image
 ![Project Logo](https://github.com/GrigoryanSargis/FastApi/blob/main/Logo.jpg?raw=true)
 
 This repository contains a simple FastAPI project, including a main application file, a model definition, and a test script.
