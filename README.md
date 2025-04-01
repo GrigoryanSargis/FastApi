@@ -33,4 +33,4 @@ pip install fastapi uvicorn
 
 #To run the FastAPI application, execute the following command:
 
-!python fastapi_mail.py
+!python fastapi_main.py
